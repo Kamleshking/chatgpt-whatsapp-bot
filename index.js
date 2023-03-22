@@ -22,7 +22,7 @@ client.on("ready", () => {
 
 
 (async () => {
-  const api = new ChatGPTAPIBrowser({
+  const api =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
     email: emaiL, //Your Password
     password: password //Your Email
   })
